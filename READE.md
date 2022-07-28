@@ -1,1 +1,0 @@
-QrCode feito para treinar os conhecimentos básicos de HTML e CSS.
